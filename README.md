@@ -10,5 +10,5 @@ Usage:
 2. Change rights: chmod 777 DockerRuntimeStart.sh
 4. Start PLC Runtime:
 ```
- ./DockerRuntimeStart.sh -n X1 -a 192.168.2.240/24 -H SPS -i codesyscontrol_linux:4.7.0.0
+ ./DockerRuntimeStart.sh -n X1 -a 192.168.2.240/24 -H SPS -i wagoautomation/3s-runtime:4.7.0.0
 ```
