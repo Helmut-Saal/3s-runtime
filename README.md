@@ -4,7 +4,7 @@ Startscript to run a virtual PLC on a Edge Device
 Usage:
 1. Copy or download the script to the "home" folder.
 ```
- wget https://github.com/Helmut-Saal/3s-runtime/blob/main/DockerRuntimeStart.sh
+ wget https://raw.githubusercontent.com/Helmut-Saal/3s-runtime/main/DockerRuntimeStart.sh
 
 ```
 2. Change rights: chmod 777 DockerRuntimeStart.sh
